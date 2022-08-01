@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @bhadreshvk
-- 👀 I’m interested in kernel development for android,dapps arch linux
+
